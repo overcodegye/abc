@@ -1,0 +1,3 @@
+<!--Plugin de notificaciones -->
+<gap:plugin name="com.phonegap.plugins.pushplugin"/>
+<access origin="*" /> 
